@@ -1,3 +1,12 @@
+---
+name: Bug report
+about: Create a report to help us improve
+title: "[BUG]"
+labels: bug, Crítica
+assignees: ''
+
+---
+
 ## Descrição do Bug
 <!-- Faça um resumo claro e conciso do problema encontrado. -->
 Ao tentar finalizar uma compra com o carrinho cheio, o botão "Finish" não responde aos cliques na resolução mobile, impedindo a conclusão do pedido.
@@ -19,18 +28,18 @@ O sistema deveria processar o pedido, redirecionar o usuário para a página de 
 O botão "Finish" reage visualmente ao clique (muda de cor), mas nenhuma ação ocorre. O usuário permanece na mesma tela e nenhum erro é exibido no console do navegador, tornando impossível finalizar a compra pelo celular.
 
 ## Ambiente
-<!-- Detalhe o hardware, sistema operacional e navegador onde o teste foi executado. -->
-* **Tipo de Teste:** Mobile (Dispositivo Físico)
+<!-- Detalhe o hardware, sistema operacional e navegador onde o teste foi executado. 
 * **Dispositivo:** POCO X7 Pro
 * **Sistema Operacional:** Android 14
 * **Navegador:** Google Chrome Mobile (Versão 123.0)
+* **Tipo de Teste:** Mobile (Dispositivo Físico)  -->
 
-<!-- Exemplo alternativo para Desktop:
+<!-- Exemplo alternativo para Desktop: -->
 * **Tipo de Teste:** Desktop
 * **Dispositivo:** PC Intel i5, 8GB RAM
 * **Sistema Operacional:** Windows 10
 * **Navegador:** Mozilla Firefox (Versão 125.0.1)
--->
+
 
 ## Evidências
 <!-- Anexe screenshots, GIFs ou pequenos vídeos mostrando o erro acontecendo. No GitHub, basta arrastar o arquivo para cá. -->
